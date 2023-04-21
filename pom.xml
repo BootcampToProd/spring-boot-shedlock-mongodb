@@ -13,7 +13,7 @@
 	<artifactId>spring-boot-shedlock-mongodb</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 
-	<name>sspring-boot-shedlock-mongodb</name>
+	<name>spring-boot-shedlock-mongodb</name>
 	<description>A simple Spring Boot app showcasing how to use Shedlock with Spring Scheduler and MongoDB</description>
 
 	<properties>
